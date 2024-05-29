@@ -1,0 +1,7 @@
+D:\Перечисления\Задача 4\bin\Debug\Задача 4.exe.config
+D:\Перечисления\Задача 4\bin\Debug\Задача 4.exe
+D:\Перечисления\Задача 4\bin\Debug\Задача 4.pdb
+D:\Перечисления\Задача 4\obj\Debug\Задача 4.csproj.AssemblyReference.cache
+D:\Перечисления\Задача 4\obj\Debug\Задача 4.csproj.CoreCompileInputs.cache
+D:\Перечисления\Задача 4\obj\Debug\Задача 4.exe
+D:\Перечисления\Задача 4\obj\Debug\Задача 4.pdb
